@@ -1,4 +1,4 @@
-# Predicting Uganda Trade Data Using Time Series Models
+# Predicting Trade Data Using Time Series Models
 This script was initially written for a my final year research project. The aim was to evaluate various time series models inorder to predict Trade figures for Uganda.
 ## Title: TIME SERIES ANALYSIS OF THE MONTHLY VALUE OF IMPORTS AND EXPORTS FOR UGANDA (1997 – 2017)
 ### OBJECTIVES OF THE STUDY
